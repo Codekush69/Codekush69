@@ -1,4 +1,4 @@
-- 👋 Hi, my name is  Matthew Baaron
+- 👋 Hi, my name is  Matthew Barron
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML,CSS and python
 - 📫 Contact me at bhomghom451@gmail.com
